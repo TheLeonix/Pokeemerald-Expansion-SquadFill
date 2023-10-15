@@ -44,4 +44,7 @@
 #define P_GEN_7_POKEMON             TRUE        // Generation 7 Pokémon (SM, USUM, LGPE)
 #define P_GEN_8_POKEMON             TRUE        // Generation 8 Pokémon (SwSh, BDSP, LA)
 
+//Custom engine, made by Leonix! 0=Base Expansion Engine, 1=Copy Pkms from the team, 2 Take random PKM from a list in (todo), 3 Takes pokemon from the squad
+#define SQUADFILL 1
+
 #endif // GUARD_CONFIG_POKEMON_H
